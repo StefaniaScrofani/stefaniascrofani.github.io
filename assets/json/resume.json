@@ -10,13 +10,6 @@
     "nationality": "Italian", 
     "Date of birth": "2nd April 1998",
     "summary": "",
-    #"location": {
-    #  "address": "Piazza Martiri della Libertà 33",
-    #  "postalCode": "PI 56127",
-    #  "city": "PISA",
-    #  "countryCode": "Italy",
-    #  "region": ""
-    #},
     "profiles": [
       {
         "network": "Linedin",
@@ -34,7 +27,6 @@
       "studyType": "PhD Candidate",
       "startDate": "October 2021",
       "endDate": "Expected 2026",
-      #"score": "10",
       "courses": ["Theory of Relativity"]
     }, 
     {
@@ -45,7 +37,7 @@
       "studyType": "PhD Candidate",
       "startDate": "October 2021",
       "endDate": "Expected 2026",
-      #"score": "10",
+      "score": "110 with honours",
       "courses": ["Theory of Relativity"]
     }
   ],
