@@ -1,34 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Stefania Scrofani",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "personal email": "stefania.scrofani02@gmail.com",
+    "email": "stefania.scrofani@santannapisa.it",
+    "phone": "",
+    "url": "https://stefaniascrofani.github.io",
+    "nationality": "Italian", 
+    "Date of birth": "2nd April 1998",
+    "summary": "",
+    #"location": {
+    #  "address": "Piazza Martiri della Libertà 33",
+    #  "postalCode": "PI 56127",
+    #  "city": "PISA",
+    #  "countryCode": "Italy",
+    #  "region": ""
+    #},
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linedin",
+        "username": "Stefania Scrofani",
+        "url": "https://www.linkedin.com/in/stefania-scrofani/"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Sant'Anna School of Advanced Studies",
+      "location": "Pisa, Italy",
+      "url": "https://www.santannapisa.it/it/formazione/international-doctoral-programme-economics",
+      "area": "Economics",
+      "studyType": "PhD Candidate",
+      "startDate": "October 2021",
+      "endDate": "Expected 2026",
+      #"score": "10",
+      "courses": ["Theory of Relativity"]
+    }, 
+    {
+      "institution": "University of Bergamo",
+      "location": "Bergamo, Italy",
+      "url": "https://www.santannapisa.it/it/formazione/international-doctoral-programme-economics",
+      "area": "Economics",
+      "studyType": "PhD Candidate",
+      "startDate": "October 2021",
+      "endDate": "Expected 2026",
+      #"score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Sant'Anna School of Advanced Studies",
+      "position": "PhD Candidate in Economics",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2021-10-01",
+      "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -43,19 +70,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
