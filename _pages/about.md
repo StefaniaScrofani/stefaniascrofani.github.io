@@ -22,8 +22,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! Welcome to my page!
+I am a PhD Candidate in Economics at Sant'Anna School of Advanced Studies in Pisa (Italy). 
+I am particularly interested in the diffusion and effect of new digital technologies at the firm level. My research interest broadly include: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics and Evolutionary Economics. 
+I use microeconometric techniques, going from panel logit models and survival analysis to causal inference techniques such as Difference-in-Differences. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
