@@ -90,7 +90,7 @@
       "summary": "Co-authors: Elena Cefis and Matteo Tubiana"
     }
   ],
-  "Book chapters": [
+  "Book_chapters": [
     {
       "name": "European National Innovation Policies: A Review of Policy Designs and Scope",
       "publisher": "Technological Evolution. How Innovations are Changing our Future. Publisher: Springer Nature",
@@ -99,7 +99,7 @@
       "summary": "Book editor: Luigi Aldieri. Co-author: Elena Cefis"
     }
   ],
-  "Working papers": [
+  "Working_papers": [
     {
       "name": "Innovation Performance Through Collaborations with Public Research Organizations: Conducting and Signaling Mechanisms",
       "publisher": "ZEW Discussion Paper No. 25-001, Mannheim",
