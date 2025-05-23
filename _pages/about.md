@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sant'Anna School of Advanced Studies</a>. Pisa, Italy.
+subtitle: <a href='#'>Sant'Anna School of Advanced Studies</a>, Pisa, Italy
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>stefania.scrofani@santannapisa.it</p>
     <p>Pisa, Italy</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
