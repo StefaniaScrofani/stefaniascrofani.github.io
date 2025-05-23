@@ -65,21 +65,21 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/stefania-scrofani/", "_blank");
+          window.open("https://www.linkedin.com/in/stefania-scrofani", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0008-9092-9767", "_blank");
+          window.open("https://orcid.org/0009-0008-9092-9767", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=jJOfVKsAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=jJOfVKsAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
