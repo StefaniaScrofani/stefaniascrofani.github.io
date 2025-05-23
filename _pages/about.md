@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Sant'Anna School of Advanced Studies</a>. Pisa, Italy.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>stefania.scrofani02@gmail.com</p>
+    <p>stefania.scrofani@santannapisa.it</p>
+    <p>Pisa, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,11 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-Hi! Welcome to my page!
-I am a PhD Candidate in Economics at Sant'Anna School of Advanced Studies in Pisa (Italy). 
-I am particularly interested in the diffusion and effect of new digital technologies at the firm level. My research interest broadly include: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics and Evolutionary Economics. 
-I use microeconometric techniques, going from panel logit models and survival analysis to causal inference techniques such as Difference-in-Differences. 
+Hi and Welcome to my website! 
+I am Stefania, a PhD Candidate in Economics at Sant'Anna School of Advanced Studies. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested on the diffusion and effect of new digital technologies at firm level. More specifically, I study the factors behind new technologies' adoption in public and private organizations and how they affect firm performance, mainly in terms of labour productivity. I am also curious about how industrial policies can drive this transformation. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I employ a variety of microeconometric techniques to study these phenomenons, from more descriptive conditional logit model or spatial survival analysis, to causal inference techniques such as Difference-in-Differences. I work with a droad range of data, spanning from balance sheet firm information from Orbis, to online job postings, earnings call and surveys.  
+
+I have a Master Degree in Economics and Data Analysis (European Master in Official Statistics) with distinctions from the University of Bergamo and a Bachelor degree in Economics and Management from the University of Trento.
+
+# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+# Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
