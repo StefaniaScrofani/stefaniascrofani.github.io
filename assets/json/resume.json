@@ -12,7 +12,7 @@
     "summary": "",
     "profiles": [
       {
-        "network": "Linedin",
+        "network": "Linkedin",
         "username": "Stefania Scrofani",
         "url": "https://www.linkedin.com/in/stefania-scrofani/"
       }
@@ -28,8 +28,7 @@
       "startDate": "09.2017",
       "endDate": "09.2019",
       "score": "110 with honours",
-      "courses": ["Thesis: Socio-economic factors at the origin of digital divide: the relation between inequality and
-growth", "Supervisor: Prof. Giuseppe Espa"]
+      "courses": ["Thesis: Socio-economic factors at the origin of digital divide: the relation between inequality and growth", "Supervisor: Prof. Giuseppe Espa"]
     },
      {
       "institution": "ESC Clermont Business School",
@@ -118,7 +117,7 @@ with Public Research Organizations: Conducting and Signaling Mechanisms",
   ],
   "Work in progress": [
     {
-      "name": "he diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities",
+      "name": "The diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities",
       "publisher": "",
       "releaseDate": "2025",
       "url": "",
