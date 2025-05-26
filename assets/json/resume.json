@@ -138,7 +138,7 @@
       "summary": "Co-authors: Hanna Hottenrott and Andrea Mina"
     }
   ],
-  "Experience": [
+  "work": [
     {
       "name": "University of Bergamo",
       "position": "Teaching Assistant",
@@ -209,7 +209,7 @@
       "summary": ""
     }
   ],
-  "Conferences": [
+  "certificates": [
     {
       "name": "Machine Learning",
       "date": "2024",
