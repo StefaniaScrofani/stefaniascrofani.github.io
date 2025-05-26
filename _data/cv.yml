@@ -104,27 +104,31 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Four-year PhD Scholarship in Economics
+      year: 2021 - 2025
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
+    - title: Scholarhip "Top 10 student program"
+      year: 2019 - 2020
+      institution: University of Bergamo (Bergamo, Italy)
+    - title: Erasmus + Scholarship for Erasmus
+      year: 2020
+    - title: Honorius Programme (Percorso Didattico di Eccellenza PDE)
+      year: 2016 - 2019
+      institution: University of Trento (Trento, Italy)
+      
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming skills
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - R (advanced)
+        - Stata (advanced)
+        - SAS (beginner)
+        - Python (beginner)
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
+        - Italian (native)
+        - English (fluent)
+        - German (B1 Goethe Certified 2025)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
