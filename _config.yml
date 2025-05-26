@@ -624,24 +624,24 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+#jekyll_get_json:
+#  - data: resume
+#    json: assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - Book_chapters
-  - Working_papers
-  - Projects
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+#jsonresume:
+#  - basics
+#  - work
+#  - education
+#  - publications
+#  - Book_chapters
+#  - Working_papers
+#  - Projects
+#  - projects
+#  - volunteer
+#  - awards
+#  - certificates
+#  - skills
+#  - languages
+#  - interests
+#  - references
 
