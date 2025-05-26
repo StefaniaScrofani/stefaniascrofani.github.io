@@ -52,6 +52,21 @@
         - Final grade 110 with distinction / 110
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
 
+- title: Work in progress
+  type: time_table
+  contents: 
+    - title: WICK 11 PhD Workshop
+      year: 2023
+      institution: Collegio Carlo Alberto (Turin, Italy)
+    - title: REGIS Summer School
+      year: 2023
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
+    - title: Advanced Course 2023, 18th Edition "Innovation, Growth and International Production. Models and Data Analysis"
+      year: 2023
+      institution: Sapienza University of Rome (Rome, Italy)
+    - title: Seasonal School – Economics of Innovation and Technological Change
+      year: 2021
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
 
 - title: Experience
   type: time_table
@@ -75,15 +90,6 @@
       description: 
         - Processing of Mobile Network Operator (MNO) data for spatial statistics
 
-- title: Book Chapters
-  type: time_table
-  contents: 
-  - title: European National Innovation Policies: A Review of Policy Designs and Scope
-    institution: In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future, Springer
-    year: 2025
-    description: 
-      - co-authored with Elena Cefis
-      - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
 
 - title: Summer Schools and Workshops
   type: time_table
@@ -100,8 +106,6 @@
     - title: Seasonal School – Economics of Innovation and Technological Change
       year: 2021
       institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
-
-
 
 - title: Open Source Projects
   type: time_table
