@@ -8,9 +8,9 @@
     - name: Nationality
       value: Italian
     - name: Personal email
-      value: stefania.scrofani02@gmail.com
+      value: "stefania.scrofani02@gmail.com"
     - name: Institutional email
-      value: stefania.scrofani@santannapisa.it
+      value: "stefania.scrofani@santannapisa.it"
     - name: Research Interests
       value: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
 
@@ -18,7 +18,7 @@
   type: time_table
   contents:
     - title: PhD Candidate in Economics 
-      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
+      institution: "Sant'Anna School of Advanced Studies (Pisa, Italy)"
       year: 2021 - 2025
       description:
         - Supervisor Prof. Andrea Mina; Co-Supervisor Prof. Elena Cefis
@@ -29,7 +29,7 @@
         - Department of Economics of Innovation and Industrial Dynamics
         - Work under the supervision of Prof. Hanna Hottenrott
     - title: PhD Visiting Period
-      institution: Université Cote d’Azur - GREDEG (Nice, France)
+      institution: "Université Cote d’Azur - GREDEG (Nice, France)"
       year: 10.2022 - 12.2022
     - title: M.Sc. in Economics and Data Analysis 
       institution: University of Bergamo (Bergamo, Italy)
@@ -51,4 +51,122 @@
       description:
         - Final grade 110 with distinction / 110
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
-  
+        
+- title: Publications
+  type: time_table
+  contents: 
+  - title: Innovation policies and firms productivity: the Italian Industry 4.0 Plan for digital transformation.
+    institution: The Journal of Technology Transfer
+    year: 2025
+    description: 
+    - co-authored with Elena Cefis and Matteo Tubiana
+    - <a href="https://doi.org/10.1007/s10961-024-10179-2">https://doi.org/10.1007/s10961-024-10179-2</a>
+
+- title: Book Chapters
+  type: time_table
+  contents: 
+  - title: European National Innovation Policies: A Review of Policy Designs and Scope
+    year: 2025
+    description: 
+    - co-authored with Elena Cefis
+    - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
+    - In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future.
+    - Springer
+
+- title: Working papers
+  type: time_table
+  contents: 
+  - title: Innovation Performance Through Collaborations with Public Research Organizations: Conducting and Signaling Mechanisms
+    year: 2025
+    description:
+    - co-authored with Bastian Krieger and Linus Strecke 
+    - ZEW Discussion Paper No. 25-001, Mannheim
+
+- title: Work in progress
+  type: time_table
+  contents: 
+  - title: The diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities
+    year: 2025
+    description:
+    - "with Elena Cefis (University of Bergamo) and Andrea Mina (Sant'Anna School of Advanced Studies)"
+  - title: Technological adoption and Firm Resilience: Understanding the Economic Impact of New Digital Technologies
+    year: 2025
+    description: 
+    - "with Laura Bisio (Istat), Valeria Cirillo (University of Bari), Matteo Lucchese (Istat) and Andrea Mina (Sant'Anna School of Advanced Studies)"
+  - title: Data Driven Innovation. Measuring its Effects on Industries, Firms, and Business Models
+    year: 2025
+    description: 
+    - "with Diletta Abbonato (University of Milano-Bicocca), Gianluca Biggi (Sant'Anna School of Advanced Studies), Marco Guerzoni (University of Milano-Bicocca), Arianna Martinelli (Sant'Anna School of Advanced Studies) and Federico Tamagni (Sant'Anna School of Advanced Studies)"
+    - PRIN project Prot. 2022JHZL37
+  - title: Innovation Through Mobility: A Study of Employment Flows in Research Institutes and Firm Laboratories
+    year: 2025
+    description: "with Hanna Hottenrott (ZEW - Leibniz Centre for European Economic Research & TUM - Technical University of Munich ) and Andrea Mina (Sant'Anna School of Advanced Studies)"
+    
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: University of Bergamo (Bergamo, Italy)
+      year: 10.2024 - 01.2025
+      description:
+        - "Course Economia e politiche dell’innovazione (18 hours, B.Sc. level)"
+        - Course Digital transformation and policies (18 hours, M.Sc. level)
+        - Course Innovazione economia e politiche (20 hours, M.Sc. level)
+        - Under the supervision of Prof. Elena Cefis
+    - title: Curricular Traineeship at ISTAT
+      institution: Italian National Statistical Office - ISTAT (Italy)
+      year: 04.2021 - 09.2021
+      description:
+        - Construction of a composite indicator about socio-economic topics
+    - title: Eurostat Coding Lab
+      institution: Eurostat
+      year: 07.2020 - 12.2020
+      description: 
+        - Processing of Mobile Network Operator (MNO) data for spatial statistics
+
+- title: Summer Schools and Workshops
+  type: time_table
+  contents: 
+    - title: WICK 11 PhD Workshop
+      year: 2023
+      institution: Collegio Carlo Alberto (Turin, Italy)
+    - title: REGIS Summer School
+      year: 2023
+      institution: "Sant'Anna School of Advanced Studies (Pisa, Italy)"
+    - title: Advanced Course 2023, 18th Edition "Innovation, Growth and International Production. Models and Data Analysis"
+      year: 2023
+      institution: Sapienza University of Rome (Rome, Italy)
+    - title: Seasonal School – Economics of Innovation and Technological Change
+      year: 2021
+      institution: "Sant'Anna School of Advanced Studies (Pisa, Italy)"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Four-year PhD Scholarship in Economics
+      year: 2021 - 2025
+      institution: "Sant'Anna School of Advanced Studies (Pisa, Italy)"
+    - title: Scholarhip "Top 10 student program"
+      year: 2019-2020
+      institution: University of Bergamo (Bergamo, Italy)
+    - title: Erasmus + Scholarship for Erasmus
+      year: 2020
+    - title: Honorius Programme (Percorso Didattico di Eccellenza PDE)
+      year: 2016-2019
+      institution: University of Trento (Trento, Italy)
+      
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming skills
+      items:
+        - R (advanced)
+        - Stata (advanced)
+        - SAS (beginner)
+        - Python (beginner)
+    - title: Languages
+      items:
+        - Italian (native)
+        - English (fluent)
+        - German (B1 Goethe Certified 2025)
