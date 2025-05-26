@@ -53,17 +53,6 @@
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
 
 
-- title: Book Chapters
-  type: time_table
-  contents: 
-  - title: European National Innovation Policies: A Review of Policy Designs and Scope
-    institution: In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future, Springer
-    year: 2025
-    description: 
-      - co-authored with Elena Cefis
-      - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
-
-
 - title: Experience
   type: time_table
   contents:
@@ -86,6 +75,15 @@
       description: 
         - Processing of Mobile Network Operator (MNO) data for spatial statistics
 
+- title: Book Chapters
+  type: time_table
+  contents: 
+  - title: European National Innovation Policies: A Review of Policy Designs and Scope
+    institution: In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future, Springer
+    year: 2025
+    description: 
+      - co-authored with Elena Cefis
+      - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
 
 - title: Summer Schools and Workshops
   type: time_table
