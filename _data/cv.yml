@@ -76,6 +76,24 @@
         - Processing of Mobile Network Operator (MNO) data for spatial statistics
 
 
+- title: Summer Schools and Workshops
+  type: time_table
+  contents: 
+    - title: WICK 11 PhD Workshop
+      year: 2023
+      institution: Collegio Carlo Alberto (Turin, Italy)
+    - title: REGIS Summer School
+      year: 2023
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
+    - title: Advanced Course 2023, 18th Edition "Innovation, Growth and International Production. Models and Data Analysis"
+      year: 2023
+      institution: Sapienza University of Rome (Rome, Italy)
+    - title: Seasonal School – Economics of Innovation and Technological Change
+      year: 2021
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
+
+
+
 - title: Open Source Projects
   type: time_table
   contents:
