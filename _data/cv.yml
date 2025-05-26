@@ -60,7 +60,7 @@
       institution: University of Bergamo (Bergamo, Italy)
       year: 10.2024 - 01.2025
       description:
-        - "Course Economia e politiche dell'innovazione (18 hours, B.Sc. level)"
+        - Course Economia e politiche dell'innovazione (18 hours, B.Sc. level)
         - Course Digital transformation and policies (18 hours, M.Sc. level)
         - Course Innovazione economia e politiche (20 hours, M.Sc. level)
         - Under the supervision of Prof. Elena Cefis
@@ -82,12 +82,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: <a href="https://doi.org/10.1007/s10961-024-10179-2">Innovation policies and firms productivity: the Italian Industry 4.0 Plan for digital transformation.</a>
-      year: 2025
-      description: 
-      - The Journal of Technology Transfer
-      - co-authored with Elena Cefis and Matteo Tubiana
-      - <a href="https://doi.org/10.1007/s10961-024-10179-2">https://doi.org/10.1007/s10961-024-10179-2</a>
 
 - title: Honors and Awards
   type: time_table
