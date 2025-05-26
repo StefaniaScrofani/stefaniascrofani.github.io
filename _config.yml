@@ -263,8 +263,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Scrofani]
+  first_name: [Stefania]
 
   style: apa
   locale: en
