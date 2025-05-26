@@ -52,22 +52,6 @@
         - Final grade 110 with distinction / 110
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
 
-- title: Work in progress
-  type: time_table
-  contents: 
-    - title: The diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities
-      year: 2025
-      description: with Elena Cefis (University of Bergamo) and Andrea Mina (Sant'Anna School of Advanced Studies)
-    - title: REGIS Summer School
-      year: 2023
-      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
-    - title: Advanced Course 2023, 18th Edition "Innovation, Growth and International Production. Models and Data Analysis"
-      year: 2023
-      institution: Sapienza University of Rome (Rome, Italy)
-    - title: Seasonal School – Economics of Innovation and Technological Change
-      year: 2021
-      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
-
 - title: Experience
   type: time_table
   contents:
@@ -113,6 +97,9 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: The diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities
+      year: 2025
+      description: with Elena Cefis (University of Bergamo) and Andrea Mina (Sant'Anna School of Advanced Studies)
 
 - title: Honors and Awards
   type: time_table
