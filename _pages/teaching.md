@@ -10,7 +10,7 @@ nav_order: 6
 [1] <b>Technological adoption and Firm Resilience: Understanding the Economic Impact of New Digital Technologies</b> <br>
 with Laura Bisio (Istat), Valeria Cirillo (University of Bari), Matteo Lucchese (Istat) and Andrea Mina (Sant’Anna School of Advanced Studies) <br>
 <i>Abstract</i>: This study investigates the impact of new digital technologies on the resilience of firms to external shocks. Using rare comprehensive data on both the adoption of single and multiple new digital technologies, we employ a Difference-in-Differences methodology with propensity score matching to evaluate how digitalization influenced firms' ability to withstand the COVID-19 crisis. We isolate the effects of adopting 1) a single technology, 2) multiple technologies (the breadth of adoption), and 3) technologies that are complementary to one another. The findings provide novel insights into how firms can shape their investments in new digital technologies to increase the benefits of digitalization, and enhance their ability to navigate future crises. <br>
-Available at <a href="https://www.lem.sssup.it/wplem.html">LEM Working paper series</a> : <a href="[assets/pdf/LEM_wp_2025.pdf]">link to PDF</a> <br>
+Available at <a href="https://www.lem.sssup.it/wplem.html">LEM Working paper series</a> : [Working Paper](/assets/pdf/LEM_wp_2025.pdf) <br>
 <br>
 [2] <b>Innovation Performance Through Collaborations with Public Research Organizations: Conducting and Signaling Mechanisms</b> <br>
 with Bastian Krieger (ZEW - Leibniz Centre for European Research; University of Luxembourg) and Linus Strecke (ZEW – Leibniz Centre for European Economic Research) <br>
