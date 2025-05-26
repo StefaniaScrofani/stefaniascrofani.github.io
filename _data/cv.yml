@@ -8,9 +8,9 @@
     - name: Nationality
       value: Italian
     - name: Personal email
-      value: stefania.scrofani02@gmail.com
+      value: <a href="stefania.scrofani02@gmail.com">stefania.scrofani02@gmail.com</a>
     - name: Institutional email
-      value: stefania.scrofani@santannapisa.it
+      value: <a href="stefania.scrofani@santannapisa.it">stefania.scrofani@santannapisa.it</a>
     - name: Research Interests
       value: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
 
