@@ -52,6 +52,42 @@
         - Final grade 110 with distinction / 110
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
 
+- title: Publications
+  type: time_table
+  contents: 
+  - title: Innovation policies and firms productivity: the Italian Industry 4.0 Plan for digital transformation.
+    institution: The Journal of Technology Transfer
+    year: 2025
+    description: 
+    - co-authored with Elena Cefis and Matteo Tubiana
+    - <a href="https://doi.org/10.1007/s10961-024-10179-2">https://doi.org/10.1007/s10961-024-10179-2</a>
+
+- title: Book Chapters
+  type: time_table
+  contents: 
+  - title: European National Innovation Policies: A Review of Policy Designs and Scope
+    year: 2025
+    description: 
+    - co-authored with Elena Cefis
+    - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
+    - In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future.
+    - Springer
+
+- title: Working papers
+  type: time_table
+  contents: 
+  - title: Technological adoption and Firm Resilience: Understanding the Impact of New Digital Technologies
+    year: 2025
+    description: 
+    - "co-authored with with Laura Bisio (Istat), Valeria Cirillo (University of Bari), Matteo Lucchese (Istat) and Andrea Mina (Sant'Anna School of Advanced Studies)"
+    - <a href="https://www.lem.sssup.it/wplem.html">LEM Working paper series</a> 
+    - <a href="https://www.lem.sssup.it/WPLem/files/2025-21.pdf">Paper PDF</a> 
+  - title: Innovation Performance Through Collaborations with Public Research Organizations: Conducting and Signaling Mechanisms
+    year: 2025
+    description:
+    - co-authored with Bastian Krieger and Linus Strecke 
+    - ZEW Discussion Paper No. 25-001, Mannheim
+
 
 - title: Experience
   type: time_table
