@@ -12,13 +12,13 @@
     - name: Institutional email
       value: stefania.scrofani@santannapisa.it
     - name: Research Interests
-      value: Innovation and Industrial policies, Digital transformation, Green transition, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
+      value: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
 
 - title: Education
   type: time_table
   contents:
     - title: PhD Candidate in Economics 
-      institution: Sant’Anna School of Advanced Studies (Pisa, Italy)
+      institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
       year: 2021 - 2025
       description:
         - Supervisor Prof. Andrea Mina; Co-Supervisor Prof. Elena Cefis
@@ -37,7 +37,7 @@
       description:
         - title: Curriculum EMOS - European Master in Official Statistics
           contents: 
-            - https://ls-eda.unibg.it/en/opportunities/emos
+            - <a href="https://ls-eda.unibg.it/en/opportunities/emos">EMOS webpage</a>
         - Final grade 110 with distinction / 110
         - Supervisor Prof. Elena Cefis
     - title: M.Sc. Erasmus 
@@ -50,17 +50,17 @@
       year: 2017 - 2019
       description:
         - Final grade 110 with distinction / 110
-        - Thesis “Socio-economic factors at the origin of digital divide, the relation between inequality and growth”
+        - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
         
 - title: Publications
   type: time_table
   contents: 
-  - title: Innovation policies and firms’ productivity: the Italian Industry 4.0 Plan for digital transformation.
+  - title: Innovation policies and firms productivity: the Italian Industry 4.0 Plan for digital transformation.
     institution: The Journal of Technology Transfer
     year: 2025
     description: 
     - co-authored with Elena Cefis and Matteo Tubiana
-    - https://doi.org/10.1007/s10961-024-10179-2
+    - <a href="https://doi.org/10.1007/s10961-024-10179-2">https://doi.org/10.1007/s10961-024-10179-2</a>
 
 - title: Book Chapters
   type: time_table
@@ -68,9 +68,8 @@
   - title: European National Innovation Policies: A Review of Policy Designs and Scope
     year: 2025
     description: 
-    - co-authored with Elena Cefis 
-    - https://doi.org/10.1007/978-3-031-85814-7_3
-    - <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - co-authored with Elena Cefis
+    - <a href="https://doi.org/10.1007/978-3-031-85814-7_3">https://doi.org/10.1007/978-3-031-85814-7_3</a>
     - In Aldieri, L. (eds) Technological Evolution. How innovations are changing our future.
     - Springer
 
@@ -90,7 +89,7 @@
     year: 2025
     description:
     - with Elena Cefis (University of Bergamo) and Andrea Mina (Sant’Anna School of Advanced Studies)
-  - title: echnological adoption and Firm Resilience: Understanding the Economic Impact of New Digital Technologies
+  - title: Technological adoption and Firm Resilience: Understanding the Economic Impact of New Digital Technologies
     year: 2025
     description: 
     - with Laura Bisio (Istat), Valeria Cirillo (University of Bari), Matteo Lucchese (Istat) and Andrea Mina (Sant’Anna School of Advanced Studies)
@@ -134,7 +133,7 @@
     - title: REGIS Summer School
       year: 2023
       institution: Sant’Anna School of Advanced Studies (Pisa, Italy)
-    - title: Advanced Course 2023, 18th Edition “Innovation, Growth and International Production. Models and Data Analysis”
+    - title: Advanced Course 2023, 18th Edition "Innovation, Growth and International Production. Models and Data Analysis"
       year: 2023
       institution: Sapienza University of Rome (Rome, Italy)
     - title: Seasonal School – Economics of Innovation and Technological Change
