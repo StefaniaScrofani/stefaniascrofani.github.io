@@ -23,7 +23,7 @@ with Diletta Abbonato (University of Milano-Bicocca), Gianluca Biggi (Sant’Ann
 <i>Description</i>: Data-driven innovation is defined by the OECD as the use of data and analytics to improve or foster new products, processes, organisational methods and markets. Using LLMs on earnings call for listed firms and patents for the universe of firms on PatentsView, we identify firms that perform Data-Driven Innovation. The aim of the project is to evaluate how such use of digital technologies for innovation can influence firms' performance. The project is financed by the PRIN project Prot. 2022JHZL37.  <br>
 <i>Stage</i>: Analysis in progress <br>
 <br>
-[4] <b>nnovation Through Mobility: A Study of Employment Flows in Research Institutes and Firm Laboratories</b> <br>
+[4] <b>Innovation Through Mobility: A Study of Employment Flows in Research Institutes and Firm Laboratories</b> <br>
 with Hanna Hottenrott (ZEW - Leibniz Centre for European Economic Research & TUM - Technical University of Munich ) and Andrea Mina (Sant’Anna School of Advanced Studies) <br>
 <i>Stage</i>: Data collection and cleaning  <br>
  
