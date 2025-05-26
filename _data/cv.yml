@@ -51,11 +51,16 @@
       description:
         - Final grade 110 with distinction / 110
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
-    - title: B.Sc. in Economics and Management
-      year: 2017 - 2019
-      description:
-        - Final grade 110 with distinction / 110
-        - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
+
+- title: Publications
+  type: time_table
+  contents: 
+    - title: Innovation policies and firms productivity: the Italian Industry 4.0 Plan for digital transformation.
+      institution: The Journal of Technology Transfer
+      year: 2025
+      description: 
+        - co-authored with Elena Cefis and Matteo Tubiana
+        - <a href="https://doi.org/10.1007/s10961-024-10179-2">https://doi.org/10.1007/s10961-024-10179-2</a>
 
 - title: Experience
   type: time_table
@@ -102,10 +107,7 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: The diffusion of digital services in the Public Administration: patterns and drivers among Italian Municipalities
-      year: 2025
-      description: with Elena Cefis (University of Bergamo) and Andrea Mina (Sant'Anna School of Advanced Studies)
-
+    
 - title: Honors and Awards
   type: time_table
   contents:
