@@ -13,7 +13,12 @@
       value: <a href="mailto:stefania.scrofani@santannapisa.it">stefania.scrofani@santannapisa.it</a>
     - name: Research Interests
       value: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
+    - name: Projects
+      value: <a href="https://stefaniascrofani.github.io/projects/">Work in progress</a>
 
+
+
+      
 - title: Education
   type: time_table
   contents:
@@ -92,13 +97,6 @@
       year: 2021
       institution: Sant'Anna School of Advanced Studies (Pisa, Italy)
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    
 - title: Honors and Awards
   type: time_table
   contents:
