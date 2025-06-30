@@ -12,4 +12,4 @@ I found an Easter Egg in csdid Stata command
 
 After a long working day using the Stata command  <a href="[https://www.pinterest.com](https://www.stata.com/meeting/us21/slides/US21_SantAnna.pdf)">csdid</a>  to perfom Difference-in-Differences with Staggered Treatment following Callaway and Sant'Anna (2020), I stumbled upon the following message. I absolutely loved the irony of the message and it definitely brightened my day!
 
-<img src="Easter_egg.jpg" alt="Easter Egg in csdid">
+<img src="Easter_egg.jpg" alt="Easter Egg in csdid" style='height: 100%'>
