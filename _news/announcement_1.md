@@ -1,11 +1,14 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: YSI @DRUID pre-conference workshop
+date: 2025-06-24 15:59:00-0400
+inline: false
 related_posts: false
 ---
 
 First edition of the YSI @DRUID pre-conference workshop is over!
+
+
 ---
 
 On Tuesday, June 24th, we held the very first YSI @DRUID pre-conference workshop at the beautiful Rotman School of Management. Organizing the Young Scholar Initiative @ DRUID: Doctoral Workshop on Cross-Disciplinary Research on Innovation and Dynamics of Change has been both challenging and deeply rewarding—and I’m happy (and relieved!) to share that it was a success! <br>
