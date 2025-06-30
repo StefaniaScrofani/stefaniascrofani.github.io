@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-first-edition-of-the-ysi-druid-pre-conference-workshop-is-over-on-tuesday-june-24th-we-held-the-very-first-ysi-druid-pre-conference-workshop-at-the-beautiful-rotman-school-of-management-organizing-the-young-scholar-initiative-druid-doctoral-workshop-on-cross-disciplinary-research-on-innovation-and-dynamics-of-change-has-been-both-challenging-and-deeply-rewarding-and-i-m-happy-and-relieved-to-share-that-it-was-a-success-a-heartfelt-thank-you-goes-to-alexandra-badort-whose-enthusiasm-and-partnership-were-fundamental-in-shaping-this-workshop-it-truly-wouldn-t-have-been-possible-without-her-i-m-also-grateful-to-our-great-speakers-prof-paul-emmanuel-anckaert-and-prof-dror-shvadron-for-their-detailed-feedback-on-participants-working-papers-and-their-valuable-advice-on-navigating-the-job-market-of-course-the-workshop-wouldn-t-have-been-the-same-without-our-brilliant-participants-your-papers-were-thought-provoking-and-well-developed-and-as-a-fellow-final-year-phd-student-i-genuinely-enjoyed-exchanging-ideas-and-learning-from-each-of-you-special-thanks-to-mark-lorenzen-for-believing-in-this-initiative-and-providing-continuous-support-throughout-the-organization-process-to-brian-silverman-for-his-guidance-at-rotman-and-to-gabriel-cavalli-for-his-helpful-tips-about-toronto-last-but-not-least-thank-you-to-the-ysi-network-especially-the-keynesian-economics-working-group-and-the-economics-of-innovation-working-group-for-funding-and-making-this-workshop-possible-here-you-can-find-a-beautiful-picture-of-us-from-the-terrace-at-rotman-and-the-program-of-the-event",
+          title: 'First edition of the YSI @DRUID pre-conference workshop is over! On Tuesday, June...',
           description: "",
           section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
