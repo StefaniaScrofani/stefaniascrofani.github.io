@@ -30,7 +30,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-easter-egg-in-csdid",
+        },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-easter-egg-in-csdid",
           title: 'Easter Egg in csdid',
           description: "",
           section: "News",handler: () => {
@@ -40,10 +43,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1.html";
-            },},{id: "news-see-you-at-aom-in-copenhagen",
-          title: 'See you at AOM in Copenhagen!',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
