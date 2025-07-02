@@ -19,7 +19,7 @@ Special thanks to Mark Lorenzen for believing in this initiative and providing c
 Last but not least, thank you to the YSI network—especially the Keynesian Economics Working Group and the Economics of Innovation Working Group—for funding and making this workshop possible. <br>
 Here you can find a beautiful picture of us from the terrace at Rotman and the program of the event!
 
-<img src="Photo_YSI_DRUID_workshop.jpg" alt="Photo_YSI_DRUID_workshop" style='height: 100%'>
-<img src="220525_Programme-YSI-DRUID-2025-1.png" alt="220525_Programme-YSI-DRUID-2025-1" style='height: 100%'>
-<img src="220525_Programme-YSI-DRUID-2025-2.png" alt="220525_Programme-YSI-DRUID-2025-2" style='height: 100%'>
-<img src="220525_Programme-YSI-DRUID-2025-3.png" alt="220525_Programme-YSI-DRUID-2025-3" style='height: 100%'>
+<img src="Photo_YSI_DRUID_workshop.jpg" alt="Photo_YSI_DRUID_workshop" class="responsive">
+<img src="220525_Programme-YSI-DRUID-2025-1.png" alt="220525_Programme-YSI-DRUID-2025-1" class="responsive">
+<img src="220525_Programme-YSI-DRUID-2025-2.png" alt="220525_Programme-YSI-DRUID-2025-2" class="responsive">
+<img src="220525_Programme-YSI-DRUID-2025-3.png" alt="220525_Programme-YSI-DRUID-2025-3" class="responsive">
