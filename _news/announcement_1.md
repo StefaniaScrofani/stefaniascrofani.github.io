@@ -18,8 +18,22 @@ Of course, the workshop wouldn’t have been the same without our brilliant part
 Special thanks to Mark Lorenzen for believing in this initiative and providing continuous support throughout the organization process, to Brian Silverman for his guidance at Rotman, and to Gabriel Cavalli for his helpful tips about Toronto. <br>
 Last but not least, thank you to the YSI network—especially the Keynesian Economics Working Group and the Economics of Innovation Working Group—for funding and making this workshop possible. <br>
 Here you can find a beautiful picture of us from the terrace at Rotman and the program of the event!
-
-<img src="Photo_YSI_DRUID_workshop.jpg" alt="Photo_YSI_DRUID_workshop" class="responsive">
-<img src="220525_Programme-YSI-DRUID-2025-1.png" alt="220525_Programme-YSI-DRUID-2025-1" class="responsive">
-<img src="220525_Programme-YSI-DRUID-2025-2.png" alt="220525_Programme-YSI-DRUID-2025-2" class="responsive">
-<img src="220525_Programme-YSI-DRUID-2025-3.png" alt="220525_Programme-YSI-DRUID-2025-3" class="responsive">
+<html>
+<head>
+  <style>
+    .responsive {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="Photo_YSI_DRUID_workshop.jpg" alt="Photo_YSI_DRUID_workshop" class="responsive">
+  <img src="220525_Programme-YSI-DRUID-2025-1.png" alt="220525_Programme-YSI-DRUID-2025-1" class="responsive">
+  <img src="220525_Programme-YSI-DRUID-2025-2.png" alt="220525_Programme-YSI-DRUID-2025-2" class="responsive">
+  <img src="220525_Programme-YSI-DRUID-2025-3.png" alt="220525_Programme-YSI-DRUID-2025-3" class="responsive">
+</body>
+</html>
