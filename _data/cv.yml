@@ -17,6 +17,17 @@
       value: <a href="https://stefaniascrofani.github.io/projects/">Work in progress</a>
 
 
+- title: Current Position
+  type: time_table
+  contents:
+    - title: PhD Trainee
+      institution: European Central Bank (Frankfurt am Main, Germany)
+      year: 08.2025 - 07.2026
+      description:
+        - Directorate General Economics - Business Cycle Analysis division (DGE/BCA) 
+        - Work on two different research projects
+        - a) intangible investments under the supervision of Dr. Lorena Saiz (Senior Lead Economist - DG-Economics-ECB)
+        - b) trade uncertainty under the supervision of Dr. Roberto A. De Santis (Senior Lead Economist - DG-Economics-ECB) 
 
       
 - title: Education
@@ -120,8 +131,8 @@
       items:
         - R (advanced)
         - Stata (advanced)
-        - SAS (beginner)
         - Python (beginner)
+        - SAS (beginner)
     - title: Languages
       items:
         - Italian (native)
