@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>stefania.scrofani02@gmail.com</p>
-    <p>stefania.scrofani@eecb.europa.eu</p>
+    <p>stefania.scrofani@ecb.europa.eu</p>
     <p>stefania.scrofani@santannapisa.it</p>
     <p>Frankfurt am Main, Germany</p>
 
