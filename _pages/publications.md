@@ -15,7 +15,8 @@ with Elena Cefis and Matteo Tubiana. <i>Journal of Technology Transfer</i> (2025
 
 <h3>Other Publications</h3>
 [1] <b>Firms’ Disclosure of University Ties on Their Website An Explorative Analysis of Its Role for Innovation Performance</b> <br>
-with Bastian Krieger and Linus Strecke. <i>Socio-economic Planning Sciences</i> (forthcoming). <br>
+with Bastian Krieger and Linus Strecke. <i>Socio-economic Planning Sciences</i> (2026). <br>
+<a href="https://doi.org/10.1016/j.seps.2025.102387"> https://doi.org/10.1016/j.seps.2025.102387 </a> <br>
 
 [2] <b>European National Innovation Policies: A Review of Policy Designs and Scopes</b> <br>
 with Elena Cefis. In: Aldieri, L. (eds) <i>Technological Evolution: How innovations are changing our future}. Springer</i> (2025). <br>
