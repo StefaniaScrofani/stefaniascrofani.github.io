@@ -24,14 +24,18 @@ announcements:
 
 ---
 Hi and Welcome to my website! 
-I am Stefania, a PhD Candidate in Economics at Sant'Anna School of Advanced Studies and a PhD Trainee at the European Central Bank. 
+I am Stefania, a Postdoctoral researcher at the chair of International Economics and European Integration at University of Tübingen. 
 
-I am interested on the diffusion and impact of new digital technologies at firm level. More specifically, I study the factors behind new technologies' adoption in public and private organizations and how they affect firm performance, mainly in terms of labour productivity. I am also curious about how industrial policies can drive this transformation. 
+I earned my PhD in Economics at Sant'Anna School of Advanced Studies in 2026 and I was a PhD Trainee at the European Central Bank. 
 
-I employ a variety of microeconometric techniques to study these phenomenons, from more descriptive conditional logit model or spatial survival analysis, to causal inference techniques such as Difference-in-Differences. I work with a broad range of data, spanning from balance sheet firm information from Orbis, to online job postings, earnings call and surveys.  
+I am interested in the diffusion and impact of new digital technologies on organizations, and how industrial policies can drive this transformation. 
+
+I employ a variety of microeconometric methods, including causal inference and text-as-data techniques. 
+
+<!-- to study these phenomenons, from more descriptive conditional logit model or spatial survival analysis, to causal inference techniques such as Difference-in-Differences. I work with a broad range of data, spanning from balance sheet firm information from Orbis, to online job postings, earnings call and surveys.  
 
 At the European Central Bank (ECB), I am working on the dynamics and effects of intangible investments in private organizations, using Natural Language Processing and Information Extraction on corporate disclosure. For my second project at the ECB, I am exploring trade policy uncertainty and tariffs. 
 
-I have a Master Degree in Economics and Data Analysis (European Master in Official Statistics) with distinctions from the University of Bergamo and a Bachelor degree in Economics and Management from the University of Trento.
+I have a Master Degree in Economics and Data Analysis (European Master in Official Statistics) with distinctions from the University of Bergamo and a Bachelor degree in Economics and Management from the University of Trento. -->
 
 
