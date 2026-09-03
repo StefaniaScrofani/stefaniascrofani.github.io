@@ -26,7 +26,7 @@ with Roberto A. De Santis (European Central Bank)<br>
 <i>Description</i>: Using a new monthly country–sector panel spanning 14 euro area countries and 231 manufacturing sectors from 2016 to 2025, this project examines the dynamic effects of U.S. tariffs on euro area output, prices, and trade flows, as well as the indirect third country spillovers onto the euro area from the U.S.–China trade war.<br>
 <i>Stage</i>: Drafting of the working paper  <br>
 <br>
-[2]<b>Intangible Investment in the Euro Area in Times of Uncertainty</b> <br>
+[2]<b> Intangible Investment in the Euro Area in Times of Uncertainty</b> <br>
 with Lorena Saiz (European Central Bank)<br>
 <i>Description</i>: Corporate investment in the euro area is increasingly driven by intangibles (software, R&D, branding, organizational capital and data) which differ from tangible assets in financing and economic properties. Since standard measures poorly capture intangible investment, this project uses a novel LLM-based framework to extract firm-level expenditure from corporate disclosures, testing how firms' intensity of investments in intangible assets changes the response to uncertainty and monetary policy.<br>
 <i>Stage</i>: Data collection and analysis in progress <br>
