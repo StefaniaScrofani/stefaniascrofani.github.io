@@ -17,21 +17,14 @@
       value: <a href="https://stefaniascrofani.github.io/projects/">Work in progress</a>
 
 
-- title: Experience
+- title: Current Position
   type: time_table
   contents:
-  - title: Postdoctoral Researcher
+    - title: Postdoctoral Researcher
       institution: University of Tübingen (Tübingen, Germany)
       year: 09.2026 - ongoing
       description:
         - Chair of International Economics and European Integration of Prof. Anna Gumpert
-    - title: PhD Trainee
-      institution: European Central Bank (Frankfurt am Main, Germany)
-      year: 08.2025 - 07.2026
-      description:
-        - Directorate General Economics - Business Cycle Analysis division (DGE/BCA) 
-        - Work under the supervision of Dr. Lorena Saiz (Senior Lead Economist - DG-Economics-ECB) and Dr. Roberto A. De Santis (Senior Lead Economist - DG-Economics-ECB) 
-
       
 - title: Education
   type: time_table
@@ -75,9 +68,15 @@
         - Thesis "Socio-economic factors at the origin of digital divide, the relation between inequality and growth"
 
 
-- title: Teaching and Research Experience
+- title: Experience
   type: time_table
   contents:
+    - title: PhD Trainee
+      institution: European Central Bank (Frankfurt am Main, Germany)
+      year: 08.2025 - 07.2026
+      description:
+        - Directorate General Economics - Business Cycle Analysis division (DGE/BCA) 
+        - Work under the supervision of Dr. Lorena Saiz (Senior Lead Economist - DG-Economics-ECB) and Dr. Roberto A. De Santis (Senior Lead Economist - DG-Economics-ECB) 
     - title: Teaching Assistant
       institution: University of Bergamo (Bergamo, Italy)
       year: 10.2024 - 01.2025
