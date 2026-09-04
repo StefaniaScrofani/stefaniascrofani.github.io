@@ -10,35 +10,40 @@
     - name: Personal email
       value: <a href="mailto:stefania.scrofani02@gmail.com">stefania.scrofani02@gmail.com</a>
     - name: Institutional email
-      value: <a href="mailto:stefania.scrofani@santannapisa.it">stefania.scrofani@santannapisa.it</a>
+      value: <a href="mailto:stefania.scrofani@wiwi.uni-tuebingen.de">stefania.scrofani@wiwi.uni-tuebingen.de</a>
     - name: Research Interests
       value: Innovation and Industrial policies, Digital transformation, Innovation diffusion, Labour productivity, Policy evaluation, Industrial dynamics, Evolutionary Economics
     - name: Projects
       value: <a href="https://stefaniascrofani.github.io/projects/">Work in progress</a>
 
 
-- title: Current Position
+- title: Experience
   type: time_table
   contents:
+  - title: Postdoctoral Researcher
+      institution: University of Tübingen (Tübingen, Germany)
+      year: 09.2026 - ongoing
+      description:
+        - Chair of International Economics and European Integration of Prof. Anna Gumpert
     - title: PhD Trainee
       institution: European Central Bank (Frankfurt am Main, Germany)
       year: 08.2025 - 07.2026
       description:
         - Directorate General Economics - Business Cycle Analysis division (DGE/BCA) 
-        - Work on two different research projects
-        - a) intangible investments under the supervision of Dr. Lorena Saiz (Senior Lead Economist - DG-Economics-ECB)
-        - b) trade uncertainty under the supervision of Dr. Roberto A. De Santis (Senior Lead Economist - DG-Economics-ECB) 
+        - Work under the supervision of Dr. Lorena Saiz (Senior Lead Economist - DG-Economics-ECB) and Dr. Roberto A. De Santis (Senior Lead Economist - DG-Economics-ECB) 
 
       
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate in Economics 
+    - title: PhD in Economics 
       institution: "Sant'Anna School of Advanced Studies (Pisa, Italy)"
-      year: 2021 - expected 2026
+      year: 10.2021 - 06.2026
       description:
-        - Supervisor Prof. Andrea Mina; Co-Supervisor Prof. Elena Cefis
         - Thesis titled "Digital Transformation in Industry and the Public Administration"
+        - Supervisor Prof. Andrea Mina; Co-Supervisor Prof. Elena Cefis
+        - Committe: Prof. Hanna Hottenrott, Prof. Daniele Moschella, Prof. Francesco Rentocchini
+        - PhD awarded cum laude
     - title: PhD Visiting Period
       institution: ZEW - Leibniz Centre for European Economic Research (Mannheim, Germany)
       year: 04.2024 - 07.2024
