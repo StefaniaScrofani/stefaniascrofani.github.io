@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-just-started-a-phd-traineeship-at-the-european-central-bank-business-cycle-analysis-division-see-you-in-frankfurt",
           title: 'I just started a PhD Traineeship at the European Central Bank (Business Cycle...',
           description: "",
+          section: "News",},{id: "news-i-just-started-a-phd-traineeship-at-the-european-central-bank-business-cycle-analysis-division-see-you-in-frankfurt",
+          title: 'I just started a PhD Traineeship at the European Central Bank (Business Cycle...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
