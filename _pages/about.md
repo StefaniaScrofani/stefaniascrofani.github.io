@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sant'Anna School of Advanced Studies</a>, Pisa, Italy
+subtitle: <a href='#'>University of Tübingen</a>, Tübingen, Germany
 
 profile:
   align: right
@@ -10,9 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>stefania.scrofani02@gmail.com</p>
-    <p>stefania.scrofani@ecb.europa.eu</p>
-    <p>stefania.scrofani@santannapisa.it</p>
-    <p>Frankfurt am Main, Germany</p>
+    <p>stefania.scrofani@wiwi.uni-tuebingen.de</p>
+    <p>Tübingen, Germany</p>
 
 # selected_papers: true  includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
